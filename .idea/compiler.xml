@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Ex242B" />
         <module name="Ex387B" />
+        <module name="Ex439B" />
       </profile>
     </annotationProcessing>
   </component>
