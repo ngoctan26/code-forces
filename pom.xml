@@ -12,6 +12,7 @@
         <module>Ex387B</module>
         <module>Ex439B</module>
         <module>Ex551A</module>
+        <module>Ex557B</module>
     </modules>
     <packaging>pom</packaging>
 

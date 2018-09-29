@@ -10,6 +10,7 @@
         <module name="Ex387B" />
         <module name="Ex439B" />
         <module name="Ex551A" />
+        <module name="Ex557B" />
       </profile>
     </annotationProcessing>
   </component>
